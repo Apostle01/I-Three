@@ -151,8 +151,8 @@ form button:hover {
 
 /* Gallery styles */
 .gallery img {
-    max-width: 100%;
-    height: auto;
+    max-width: 149px;
+    height: 250px;
 }
 
 /* Contact info styles */
