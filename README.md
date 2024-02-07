@@ -3,7 +3,7 @@
 
 
 ## About
-Emporium is a website for a hair salon that specializes in locks. It showcases the different packages and services that the salon offers, as well as the gallery of the previous work done by the salon. It also allows visitors to book an appointment online and contact the salon for any inquiries. The website is built with HTML, CSS, and JavaScript 
+I-Three is a website for a hair salon that specializes in locks. It showcases the different packages and services that the salon offers, as well as the gallery of the previous work done by the salon. It also allows visitors to book an appointment online and contact the salon for any inquiries. The website is built with HTML, CSS, and JavaScript.
 
 ## Installation
 To install and run this project locally, you need to have Git and a web browser installed on your machine. Follow these steps:
