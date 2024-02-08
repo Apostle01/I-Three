@@ -1,4 +1,4 @@
- # I Three
+ # I-Three
 > A website for a hair salon that specializes in Dreadlocks.
 
 
