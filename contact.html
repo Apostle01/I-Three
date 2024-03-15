@@ -6,7 +6,7 @@
     <title>Dreadlocks Salon - Contact</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC4Yeg39bQw2HYX_jwfgi3uqWqzqUmN8vc"></script>
 </head>
 
 <body>
@@ -15,10 +15,18 @@
         <p>A Touch of Excellence</p>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="packages.html">Packages</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="contact.html" class="active">Contact</a></li>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="packages.html">Packages</a>
+                </li>
+                <li>
+                    <a href="gallery.html">Gallery</a>
+                </li>
+                <li>
+                    <a href="contact.html" class="active">Contact</a>
+                </li>
             </ul>
         </nav>
     </header>
@@ -29,38 +37,48 @@
                 soon as possible. You can also reach us by phone or email.</p>
             <form action="mailto:nanaafianyamekye2@gmail.com" method="post">
                 <fieldset>
-                    <legend>Send Message</legend>
-                    <label for="name">Name:</label>
-                    <input type="text" id="name" name="name" required>
-                    <label for="email">Email:</label>
-                    <input type="email" id="email" name="email" required>
-                    <label for="subject">Subject:</label>
-                    <input type="text" id="subject" name="subject" required>
-                    <label for="message">Message:</label>
-                    <textarea id="message" name="message" rows="5" cols="30" required></textarea>
-                    <button type="submit">Send</button>
+                    <legend>Send Message</legend> <label for="name">Name:</label> <input type="text" id="name"
+                        name="name" required=""> <label for="email">Email:</label> <input type="email" id="email"
+                        name="email" required=""> <label for="subject">Subject:</label> <input type="text" id="subject"
+                        name="subject" required=""> <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="5" cols="30" required=""></textarea> <button
+                        type="submit">Send</button>
                 </fieldset>
             </form>
             <div class="contact-info">
                 <h4>Address:</h4>
-                <p><i class="fas fa-home"></i> 123 Main Street, Ashton-Under-Lyne, Greater Manchester, UK</p>
+                <p>123 Main Street, Ashton-Under-Lyne, Greater Manchester, United Kingdom</p>
                 <h4>Phone:</h4>
-                <p><i class="fas fa-phone"></i> +44 1234 567 890</p>
+                <p>+44 1234 567 890</p>
                 <h4>Email:</h4>
-                <p><i class="fas fa-envelope"></i> nanaafianyamekye2@gmail.com.</p>
+                <p>nanaafianyamekye2@gmail.com.</p>
             </div>
             <div id="map" style="width: 400px; height: 300px;"></div>
-        </section>
-    </main>
-    <footer>
-        <!-- Social media links -->
-        <div class="social-links">
-            <a href="https://www.facebook.com/I-Three" target="_blank"><i class="fab fa-facebook"></i></a>
-            <a href="https://www.twitter.com/I-Three" target="_blank"><i class="fab fa-twitter"></i></a>
-            <a href="https://www.instagram.com/I-Three" target="_blank"><i class="fab fa-instagram"></i></a>
-        </div>
-        <p>&copy; 2024 Dreadlocks Salon. All rights reserved.</p>
-    </footer>
-</body>
+            <script>
+                // Initialize Google Maps
+                function initMap() {
+                    var map = new google.maps.Map(document.getElementById('map'), {
+                        center: { lat: 53.4911, lng: -2.0987 }, // Set your desired coordinates
+                        zoom: 14 // Adjust the zoom level
+                    });
+                    // Add a marker for your salon location
+                    var marker = new google.maps.Marker({
+                        position: { lat: 53.4911, lng: -2.0987 }, // Set your salon coordinates
+                        map: map,
+                        title: 'Dreadlocks Salon'
+                    });
+                }
+        <\/section>
+                    <\/main>
+                        < footer >
+                        <!-- Social media links -->
+                        <div class="social-links">
+                            <a href="https://www.facebook.com/I-Three" target="_blank"><i class="fab fa-facebook"><\/i><\/a>
+                                <a href="https://www.twitter.com/I-Three" target="_blank"><i class="fab fa-twitter"><\/i><\/a>
+                                    <a href="https://www.instagram.com/I-Three" target="_blank"><i class="fab fa-instagram"><\/i><\/a>
+                                        <\/div>
+                                        <p>&copy; 2024 Dreadlocks Salon. All rights reserved.<\/p>
+                                            <\/footer>
 
-</html>
+                                        </body>
+                                    </html>
