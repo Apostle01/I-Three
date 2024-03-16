@@ -7,7 +7,7 @@ I-Three is a website for a hair salon that specializes in locks. It showcases th
 ## Installation
 To install and run this project locally, you need to have Git and a web browser installed on your machine. Follow these steps:
 
-1. Clone this repository by running `git clone https://github.com/Apostle1/I Three.git` in your terminal.
+1. Clone this repository by running `git clone https://github.com/Apostle1/I-Three.git` in your terminal.
 2. Navigate to the project folder by running `cd i-three` in your terminal.
 3. Open the index.html file in your web browser by running `open index.html` in your terminal (or double-clicking the file).
 4. Enjoy the website!

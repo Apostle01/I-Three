@@ -68,7 +68,7 @@ a:hover {
 
 /* Header styles */
 header {
-    background-color: mediumspringgreen;
+    background-color: #66cdaa;
     color: #fff;
     padding: 20px;
 }
@@ -212,6 +212,17 @@ form button:hover {
     margin-right: 10px;
 }
 
+#map {
+    height: 50%;
+}
+
+html,
+body {
+    height: 50%;
+    margin: 0;
+    padding: 0;
+}
+
 /* Footer styles */
 
 .social-links {
@@ -231,8 +242,19 @@ footer {
 }
 
 img {
-    max-width: 10%;
-    height: auto;
+    width: 20%;
+}
+
+img {
+    width: 21%;
+}
+
+img {
+    width: 25%;
+}
+
+img {
+    width: 20%;
 }
 
 .gallery img:hover {

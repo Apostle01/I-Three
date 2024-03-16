@@ -3,15 +3,36 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Dreadlocks Salon - Contact</title>
+    <title>My Dreadlocks Salon</title>
     <link rel="stylesheet" href="assets/css/style.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha384-5fG8uIweTo6+t1r+Lkz8Z+9sVYTaf9RNnccBLVNTJGcxFCN06a5pjqg4ws2jGMkb" crossorigin="anonymous">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        type="text/css">
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC4Yeg39bQw2HYX_jwfgi3uqWqzqUmN8vc"></script>
 </head>
+<!-- <html>
+  <head>
+    <title>Simple Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script type="module" src="./index.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <!-- prettier-ignore -->
+<!-- <script>(g => { var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__", m = document, b = window; b = b[c] || (b[c] = {}); var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams, u = () => h || (h = new Promise(async (f, n) => { await (a = m.createElement("script")); e.set("libraries", [...r] + ""); for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]); e.set("callback", c + ".maps." + q); a.src = `https://maps.${c}apis.com/maps/api/js?` + e; d[q] = f; a.onerror = () => h = n(Error(p + " could not load.")); a.nonce = m.querySelector("script[nonce]")?.nonce || ""; m.head.append(a) })); d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)) })
+        ({ key: "AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg", v: "weekly" });</script>
+</body>
+
+</html> --> -->
 
 <body>
     <header>
-        <h1>Dreadlocks Salon</h1>
+        <h1>I-Three Dreadlocks Salon</h1>
         <p>A Touch of Excellence</p>
         <nav>
             <ul>
@@ -53,30 +74,29 @@
                 <h4>Email:</h4>
                 <p>nanaafianyamekye2@gmail.com.</p>
             </div>
-            <div id="map" style="width: 400px; height: 300px;"></div>
+            <div id="map" style="height: 300px;"></div>
             <script>
-                // Initialize Google Maps
-                function initMap() {
-                    var map = new google.maps.Map(document.getElementById('map'), {
-                        center: { lat: 53.4911, lng: -2.0987 }, // Set your desired coordinates
-                        zoom: 14 // Adjust the zoom level
-                    });
-                    // Add a marker for your salon location
-                    var marker = new google.maps.Marker({
-                        position: { lat: 53.4911, lng: -2.0987 }, // Set your salon coordinates
-                        map: map,
-                        title: 'Dreadlocks Salon'
+                let map;
+
+                async function initMap() {
+                    const { Map } = await google.maps.importLibrary("maps");
+
+                    map = new Map(document.getElementById("map"), {
+                        center: { lat: -34.397, lng: 150.644 },
+                        zoom: 8,
                     });
                 }
+
+                initMap();
             </script>
         </section>
     </main>
     <footer>
         <!-- Social media links -->
         <div class="social-links">
-            <a href="https://www.facebook.com/I-Three" target="_blank"><i class="fab fa-facebook"></i></a>
-            <a href="https://www.twitter.com/I-Three" target="_blank"><i class="fab fa-twitter"></i></a>
-            <a href="https://www.instagram.com/I-Three" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.facebook.com/I-Three" target="_blank"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.twitter.com/I-Three" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.instagram.com/I-Three" target="_blank"><i class="fa fa-instagram"></i></a>
         </div>
         <p>&copy; 2024 Dreadlocks Salon. All rights reserved.</p>
     </footer>
