@@ -71,6 +71,14 @@ header {
     background-color: #66cdaa;
     color: #fff;
     padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: #66cdaa;
+    color: #fff;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 header h1 {
@@ -213,12 +221,12 @@ form button:hover {
 }
 
 #map {
-    height: 50%;
+    height: 400%;
 }
 
 html,
 body {
-    height: 50%;
+    height: 100%;
     margin: 0;
     padding: 0;
 }
