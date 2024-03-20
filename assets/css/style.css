@@ -222,13 +222,14 @@ form button:hover {
 
 #map {
     height: 400%;
+    width: auto;
 }
 
 html,
 body {
     height: 100%;
-    margin: 0;
-    padding: 0;
+    margin: 25;
+    padding: 25;
 }
 
 /* Footer styles */
@@ -239,7 +240,7 @@ body {
 
 i {
     height: 10px;
-    width: 10px;
+    width: 50px;
 }
 
 footer {
