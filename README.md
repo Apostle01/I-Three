@@ -1,3 +1,5 @@
+https://apostle01.github.io/I-Three/
+
 # I-Three Dreadlocks Salon
 
 Welcome to I-Three Dreadlocks Salon! Our salon showcases our expertise in dreadlocks styling. Whether you're a client or just curious, this README will guide you through our project.
