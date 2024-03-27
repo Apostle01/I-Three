@@ -166,7 +166,7 @@ form input,
 form textarea {
     width: 100%;
     padding: 10px;
-    border: 1px solid #333;
+    border: #333 solid 1px;
     outline: none;
 }
 
@@ -192,28 +192,20 @@ form button:hover {
 
 /* Gallery styles */
 .gallery img {
-    max-width: 149px;
     height: 250px;
 }
 
 /* Contact info styles */
 .contact-info {
-    display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    margin: 0 auto;
     width: 600px;
 }
 
 .contact-info h4 {
     font-size: 18px;
     margin-bottom: 5px;
-}
-
-.contact-info p {
-    display: flex;
-    align-items: center;
 }
 
 .contact-info i {
@@ -223,13 +215,12 @@ form button:hover {
 #map {
     height: 400%;
     width: auto;
+    align-items: center;
 }
 
 html,
 body {
     height: 100%;
-    margin: 25;
-    padding: 25;
 }
 
 /* Footer styles */
@@ -250,20 +241,9 @@ footer {
     text-align: center;
 }
 
-img {
-    width: 20%;
-}
-
-img {
-    width: 21%;
-}
 
 img {
     width: 25%;
-}
-
-img {
-    width: 20%;
 }
 
 .gallery img:hover {
