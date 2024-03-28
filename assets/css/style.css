@@ -74,22 +74,12 @@ header {
     text-align: center;
 }
 
-header {
-    background-color: #66cdaa;
-    color: #fff;
-    padding-left: 100px;
-    padding-right: 100px;
-}
-
 header h1 {
     font-size: 36px;
-    text-align: center;
-
 }
 
 header p {
     font-size: 18px;
-    text-align: center;
 }
 
 header nav {
@@ -145,49 +135,6 @@ form {
 .block {
     margin-left: auto;
     margin-right: auto;
-    width: 600px;
-}
-
-form fieldset {
-    border: none;
-}
-
-form legend {
-    font-size: 18px;
-    font-weight: bold;
-}
-
-form label {
-    display: block;
-    margin-bottom: 5px;
-}
-
-form input,
-form textarea {
-    width: 100%;
-    padding: 10px;
-    border: #333 solid 1px;
-    outline: none;
-}
-
-form input:focus,
-form textarea:focus {
-    border-color: #666;
-}
-
-form button {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    border: none;
-    background-color: #333;
-    color: #fff;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-form button:hover {
-    background-color: #666;
 }
 
 /* Gallery styles */
@@ -218,13 +165,7 @@ form button:hover {
     align-items: center;
 }
 
-html,
-body {
-    height: 100%;
-}
-
 /* Footer styles */
-
 .social-links {
     color: #fff;
 }
@@ -240,7 +181,6 @@ footer {
     padding: 20px;
     text-align: center;
 }
-
 
 img {
     width: 25%;

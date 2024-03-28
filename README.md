@@ -34,7 +34,8 @@ Gallery: View stunning photos of our clients’ dreadlocks transformations.
 <img src="assets/img/ladylocks.JPG" alt="An African queen with Pride">
 <img src="assets/img/cleanshave.jpg" alt="A clean shaven gentle locks">
 <img src="assets/img/larry.jpg" alt="A man with fresh cut medium twisted dreadlocks">
-<img src="assets/img/VideoEditor_HOWTORETWISTDREADLOCKSWITHCROCHETLATCHHOOK.mp4" alt="locks video">
+<img src="assets/img/https://raw.githubusercontent.com/Apostle01/I-Three/main/assets/img/           VideoEditor_HOWTORETWISTDREADLOCKSWITHCROCHETLATCHHOOK.mp4
+" alt="locks video">
 <img src="assets/img/coloredlocks.jpg" alt="A lady with long colored locks">
  
 Booking: Reach out to us via email or the booking form  <a href="Booking.html">Booking.html</a>.
