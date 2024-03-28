@@ -39,6 +39,13 @@ Gallery: View stunning photos of our clients’ dreadlocks transformations.
  
 Booking: Reach out to us via email or the booking form  <a href="Booking.html">Booking.html</a>.
 
+##HTML Validator Screenshots of errors and correction.
+<img src="assets/photos/NuHtmlError.jpg" alt="HTML ERROR">
+<img src="assets/photos/NuHtmlChecker.jpg" alt="HTML NO ERROR">
+
+##Validated with w3c JigSaw validator.
+<img src="assets/photos/Jigsawvalidator.jpg" alt="CSS VALIDATED">
+
 ##Installation
 
 Clone this repository to your local machine:
