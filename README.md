@@ -14,8 +14,7 @@ License
 Introduction
 
 The purpose of the I-Three Dreadlocks Salon project is to create an online platform where clients can explore dreadlocks styling services, view a gallery of stunning transformations, and get in touch with the salon. Whether you’re interested in our services or simply curious, our website aims to provide a seamless experience for anyone seeking excellence in dreadlocks.
-
-##home page 
+ 
 !Salon Image 
  <img src="assets/img/larry.jpg" alt="A man with fresh cut medium twisted dreadlocks" style="width: 14%;">
  <img src="assets/img/coloredlocks.jpg" alt="A lady with long colored locks" style="width: 21%;">
