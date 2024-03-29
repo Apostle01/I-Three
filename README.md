@@ -37,13 +37,8 @@ Gallery: View stunning photos of our clients’ dreadlocks transformations.
 <img src="assets/img/smily_girl.jpg" alt="A touch of excellence!">
 <img src="assets/img/startinglocs.jpg" alt="A woman starting her dreadlocks">
 <img src="assets/img/AfricanPride.jpg" alt="An African queen with Pride">
-<<<<<<< HEAD
-<img src="assets/img/ladylocks.JPG" alt="A woman withthin grey locks">
-<img src="assets/img/cleanshave.jpg" alt="A clean-shaven gentle locks">
-=======
-<img src="assets/img/ladylocks.JPG" alt="A woman with thin grey locks">
+<img src="assets/img/ladylocks.JPG" alt="A woman with thin grey locks" width="50%">
 <img src="assets/img/cleanshave.jpg" alt="A clean-shaven gentle locks" width="50%">
->>>>>>> 21d897296c368663f77626c55a8fd4185a25fff9
 <img src="assets/img/coloredlocks.jpg" alt="A lady with long colored locks">
 
 <video width="630" height="300" src="https://raw.githubusercontent.com/Apostle01/I-Three/main/assets/video/VideoEditor_HOW TO RETWISTDREADLOCKS WITH CROCHET LATCH HOOK.mp4"></video>
