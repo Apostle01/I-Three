@@ -37,7 +37,7 @@ Gallery: View stunning photos of our clients’ dreadlocks transformations.
 <img src="assets/img/smily_girl.jpg" alt="A touch of excellence!">
 <img src="assets/img/startinglocs.jpg" alt="A woman starting her dreadlocks">
 <img src="assets/img/AfricanPride.jpg" alt="An African queen with Pride">
-<img src="assets/img/ladylocks.JPG" alt="A woman with thin grey locks" width="10%">
+<img src="assets/img/ladylocks.JPG" alt="A woman with thin grey locks" width="50%">
 <img src="assets/img/cleanshave.jpg" alt="A clean-shaven gentle locks" width="50%">
 <img src="assets/img/coloredlocks.jpg" alt="A lady with long colored locks">
 
