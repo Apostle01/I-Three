@@ -1,4 +1,4 @@
- https://apostle01.github.io/I-Three/
+ <--https://apostle01.github.io/I-Three/-->
 
 I-Three Dreadlocks Salon
 Welcome to I-Three Dreadlocks Salon! Our salon showcases our expertise in dreadlocks styling. Whether you’re a client or just curious, this README will guide you through our project.
@@ -22,18 +22,25 @@ The purpose of the I-Three Dreadlocks Salon project is to create an online platf
  <img src="assets/img/AfricanPride.jpg" alt="An African queen with Pride" style="width: 20%;">
 
 ##Features
-
 Home Page: Learn about our salon, our mission, and our commitment to excellence.
-Packages: Explore our service packages, pricing, and special offers.
-Gallery: View stunning photos of our clients’ dreadlocks transformations.
 
+Packages: Explore our service packages, pricing, and special offers.
+<ul>
+<li>Starter</li>
+<li>Maintainance</li>
+<li>Styling Perfection</li>
+<a href="Booking.html">Booking.html</a>
+</ul>
+
+
+Gallery: View stunning photos of our clients’ dreadlocks transformations.
 <img src="assets/img/smily_girl.jpg" alt="A touch of excellence!">
 <img src="assets/img/startinglocs.jpg" alt="A woman starting her dreadlocks">
 <img src="assets/img/AfricanPride.jpg" alt="An African queen with Pride">
-<img src=“assets/img/ladylocks.JPG” alt="An African queen with Pride">
-<img src=“assets/img/cleanshave.jpg” alt="A clean-shaven gentle locks">
-<img src="assets/video/coloredlocks.jpg" alt="A lady with long colored locks">
-<img src=“assets/img/larry.jpg” alt="A man with fresh-cut medium twisted dreadlocks">
+<img src="assets/img/ladylocks.JPG" alt="A woman withthin grey locks">
+<img src="assets/img/cleanshave.jpg" alt="A clean-shaven gentle locks">
+<img src="assets/img/coloredlocks.jpg" alt="A lady with long colored locks">
+
 <video width="630" height="300" src="https://raw.githubusercontent.com/Apostle01/I-Three/main/assets/video/VideoEditor_HOW TO RETWISTDREADLOCKS WITH CROCHET LATCH HOOK.mp4"></video>
 
 Booking: Reach out to us via email or the booking form.
