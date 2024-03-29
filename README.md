@@ -88,5 +88,16 @@ git push origin feature/Apostle01
 
 Create a pull request to merge your changes into the main repository.
 
+##Code Used
+I've used code and classes courtesy of Bootstrap.
+
+##Media
+All my media was taken from Unsplash.
+
+##Acknowledgments
+My cohort for support.
+Code Institute for informative course material.
+The Slack community for help and support.
+
 ##License
 This project is licensed under the MIT License.
