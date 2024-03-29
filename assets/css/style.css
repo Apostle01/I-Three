@@ -165,6 +165,10 @@ form {
     align-items: center;
 }
 
+.README.md i {
+    width: 25px;
+}
+
 /* Footer styles */
 .social-links {
     color: #fff;
