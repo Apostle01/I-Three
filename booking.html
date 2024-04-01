@@ -58,35 +58,38 @@
                             <h5 class="modal-title" id="bookNowModalTitle">
                                 I-Three Salon Booking Form
                             </h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="close"><span
+                                    aria-hidden="true">
+                                    &times;</span>
+                            </button>
                         </div>
                         <div class="modal-body">
                             <form id="bookingForm">
                                 <div class="form-group">
-                                    <label for=“name”>Full Name*</label> <input type=“text” class=“form-control”
-                                        id=“name” placeholder=“Joe Bloggs” name=“name” required autocomplete=“username”>
+                                    <label for="name">Full Name*</label> <input type="text" class="form-control"
+                                        id="name" placeholder="Joe Bloggs" name="name" required />
                                 </div>
                                 <div class="form-group">
                                     <label for="email">Email address*</label>
-                                    <input type="email" class="form-control" id="email" name="email"
-                                        autocomplete="email" required>
+                                    <input type="email" class="form-control" id="email" name="email" required />
                                 </div>
                                 <div class="form-group">
                                     <label for="telephone">Telephone Number*</label>
-                                    <input type="tel" class="form-control" id="telephone" name="telephone"
-                                        autocomplete="tel" required>
+                                    <input type="tel" class="form-control" id="telephone" pattern="[0-9]{11}"
+                                        name="telephone" placeholder="07859755603" />
                                 </div>
                                 <div class="form-group">
                                     <label for="packageSelect">Select Your Package*</label>
-                                    <select class="form-control" id="packageSelect" size="3" name="package" required>
-                                        <option>Starter</option>
-                                        <option>Maintenance</option>
-                                        <option>Styling Perfection</option>
+                                    <select class="form-control" id="packageSelect" size="3" name="package" required />
+                                    <option>Starter</option>
+                                    <option>Maintenance</option>
+                                    <option>Styling Perfection</option>
                                     </select>
                                 </div>
                                 <div class="form-group">
                                     <label for="booking-time">Choose a date and time for your appointment*</label>
                                     <input type="datetime-local" id="booking-time" name="booking-time"
-                                        min="2023-11-22T09:00" max="2024-11-22T17:00" required>
+                                        min="2023-11-22T09:00" max="2024-11-22T17:00" required />
                                 </div>
                                 <div class="form-group text-area">
                                     <label for="textArea">Any additional information</label>
