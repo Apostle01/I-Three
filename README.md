@@ -210,49 +210,51 @@ iPhone 15 pro max.
 iPhone 14 pro max.
 Phone 12 pro
 Each device tested the site using the following browsers:
-
+|:Dog's na|...........|............|..........|
+|:f.......|...........|............|..........|
+|:........|...........|............|..........|
 Google Chrome
 Safari
 Home Page				
-Feature	Expected outcome	Testing performed	Result	Pass/Fail
-Site Nav links	Link directs the user back to the home page	Clicked title	Home page reloads	Pass
-Package links	Link directs user to Packages page	Clicked link	Package page loads	Pass
-Gallery link	Link directs user to Gallery page	Clicked link	Gallery page loads	pass
-Link hover effect	All nav bar links highlight grey when hovered over	Hover over each button on the page		Pass
-Social links	The corresponding social website opens on a new tab when clicked	Clicked social links	Social websites open in new tab	Pass
-Book now links	Opens booking modal	Clicked links	Booking Modal opens	Pass
+|Feature       |	Expected outcome                 |	Testing performed            |	Result      |  Pass/Fail|
+|Site Nav links|	Link directs the user back to the home page|	Clicked title|	Home page reloads|	Pass|
+|Package links |	Link directs user to Packages page|	Clicked link|	Package page loads|	Pass|
+|Gallery link  |	Link directs user to Gallery page|	Clicked link|	Gallery page loads|	pass|
+|Link hover effect|	All nav bar links highlight grey when hovered over|	Hover over each button on the page|		Pass|
+|Social links  |	The corresponding social website opens on a new tab when clicked|	Clicked social links|	Social websites open in new tab|	Pass|
+|Book now links|	Opens booking modal|	Clicked links  |	Booking Modal opens|	Pass|
 
 Package Page
-Feature	Expected Outcome	Testing Performed	Results	Pass/Fail
-Site nav links	Link directs the user back to the home page	Clicked title	Home Page reloads	Pass
-Packages link	Link directs user to packages page	Clicked title	Packages Page loads	Pass
-Gallery link	Link directs user to gallery page	Clicked link	Gallery Page loads	Pass
-Link hover effect	All nav bar links highlight grey when hovered over	Hover over each button on the page	Each button turned grey when hovered over	Pass
-Social links	The corresponding social website opens on a new tab when clicked	Clicked social links	Social website opens in new tab	Pass
-Book now link	Opens booking modal	Clicked links	Booking Modal opens	Pass
+|Feature       |	Expected Outcome|	Testing Performed |	 Results	|Pass/Fail|
+|Site nav links|	Link directs the user back to the home page|	Clicked title|	Home Page reloads|	Pass|
+|Packages link |	Link directs user to packages page|	Clicked title|	Packages Page loads|	Pass|
+|Gallery link  |	Link directs user to gallery page|	Clicked link|	Gallery Page loads|	Pass|
+|Link hover effect|	All nav bar links highlight grey when hovered over|	Hover over each button on the page|	Each button turned grey when hovered over   |	Pass|
+|Social links  | The corresponding social website opens on a new tab when clicked| Clicked social links |Social website opens in new tab            |	Pass  |
+|Book now link |	Opens booking modal|	Clicked links|	Booking Modal opens|	Pass|
 
 Gallery Page
-Feature	Expected Outcome	Testing Performed	Results	Pass/Fail
-Site nav links	Link directs the user back to the home page	Clicked link	Home Page reloads	Pass
-Packages link	Link directs user to packages page	Clicked link	Packages Page loads	Pass
-Gallery link	Link directs user to gallery page	Clicked link	Gallery Page loads	Pass
-Link hover effect	All nav bar links highlight grey when hovered over	Hover over each button on the page	Each button turned grey when hovered over	Pass
-Social links	The corresponding social website opens on a new tab when clicked	Clicked social links	Social website opens in new tab	Pass
-Book now link	Opens booking modal	Clicked links	Booking Modal opens	Pass
+|Feature       |	Expected Outcome|	Testing Performed|	Results|	Pass/Fail|
+|Site nav links|	Link directs the user back to the home page|	Clicked link|	Home Page reloads|	Pass|
+|Packages link |	Link directs user to packages page|	Clicked link|	Packages Page loads|	Pass|
+|Gallery link  |	Link directs user to gallery page|	Clicked link|	Gallery Page loads|	Pass|
+|Link hover effect|	All nav bar links highlight grey when hovered over|	Hover over each button on the page|	Each button turned grey when hovered over   |	Pass|
+|Social links  |	The corresponding social website opens on a new tab when clicked|	Clicked social links|	Social website opens in new tab|	Pass|
+|Book now link |	Opens booking modal|	Clicked links|	Booking Modal opens|	Pass|
 
 404 Page
-Feature	Expected Outcome	Testing Performed	Results	Pass/Fail
-Site nav links	Link directs the user back to the home page	Clicked link	Home Page reloads	Pass
-Packages link	Link directs user to packages page	Clicked link	Packages Page loads	Pass
-Gallery link	Link directs user to gallery page	Clicked link	Gallery Page loads	Pass
-Link hover effect	All nav bar links highlight grey when hovered over	Hover over each button on the page	Each button turned grey when hovered over	Pass
-Social links	The corresponding social website opens on a new tab when clicked	Clicked social links	Social website opens in new tab	Pass
-Book now link	Opens booking modal	Clicked links	Booking Modal opens	Pass
+|Feature       |	Expected Outcome|	Testing Performed|	Results	|Pass/Fail|
+|Site nav links|	Link directs the user back to the home page|	Clicked link|	Home Page reloads|	Pass|
+|Packages link |	Link directs user to packages page|	Clicked link|	Packages Page loads|	Pass|
+|Gallery link  |	Link directs user to gallery page|	Clicked link|	Gallery Page loads|	Pass|
+|Link hover effect|	All nav bar links highlight grey when hovered over|	Hover over each button on the page|	Each button turned grey when hovered over   |	Pass|
+|Social links  |	The corresponding social website opens on a new tab when clicked|	Clicked social links|	Social website opens in new tab|	Pass   |
+|Book now link|	Opens booking modal|	Clicked links|	Booking Modal opens|	Pass|
 
 Booking Modal
-Feature	Expected Outcome	Testing Performed	Result	Pass/Fail
-Book Button	Opens confirmation modal	Clicked button	Confirmation modal opens	Pass
-Close Button	Closes modal	Clicked button	Modal closes	Pass
+|Feature       |	Expected Outcome|	Testing Performed  |	Result              |Pass/Fail|
+|Book Button   |Opens| confirmation modal|	Clicked button|	Confirmation modal opens|	Pass|
+|Close Button  |	Closes modal   |	Clicked button     |	Modal closes   |	Pass    |
 						
 ##Acknowledgments
 My cohort for support.
