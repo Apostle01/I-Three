@@ -173,7 +173,7 @@ One issue I was coming across when testing my html page was an error displayed b
 Testing User Stories
 First Time Visitors
 I want to find out what services are on offer.
-<img src="assets/img/croped2024.jpg" alt="An image of the home page">
+<img src="assets/img/croped 2024.jpg" alt="An image of the home page">
 
 Users are able to navigate to other pages. Packages, gallery and booking models page of the website
 
