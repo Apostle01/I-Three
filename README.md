@@ -210,11 +210,9 @@ iPhone 15 pro max.
 iPhone 14 pro max.
 Phone 12 pro
 Each device tested the site using the following browsers:
-|:Dog's na|...........|............|..........|
-|:f.......|...........|............|..........|
-|:........|...........|............|..........|
 Google Chrome
 Safari
+
 Home Page				
 |Feature       |	Expected outcome                 |	Testing performed            |	Result      |  Pass/Fail|
 |Site Nav links|	Link directs the user back to the home page|	Clicked title|	Home page reloads|	Pass|
