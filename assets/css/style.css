@@ -101,6 +101,26 @@ header nav ul li a.active {
     color: #333;
 }
 
+/* Header images
+.header-images {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+} */
+
+header img {
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+iframe {
+    clear: both;
+}
+
+
 /* Main styles */
 main {
     max-width: 960px;
@@ -185,9 +205,12 @@ footer {
     text-align: center;
 }
 
-img {
+/* header img {
     width: 25%;
-}
+    width: 14%;
+    width: 21%;
+    width: 20%;
+} */
 
 .gallery img:hover {
     transform: scale(2);
