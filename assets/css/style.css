@@ -8,8 +8,8 @@
 body {
     font-family: Arial, sans-serif;
     font-size: 16px;
-    color: #333;
-    background-color: #f0f0f0;
+    color: #000;
+    background-color: #fff;
 }
 
 /* 404 Page Styles */
@@ -67,18 +67,20 @@ a:hover {
 
 /* Header styles */
 header {
-    background-color: #66cdaa;
-    color: #fff;
+    background-color: #f2f2f2;
+    color: #000;
     padding: 20px;
     text-align: center;
 }
 
 header h1 {
     font-size: 36px;
+    color: #333;
 }
 
 header p {
     font-size: 18px;
+    color: #555;
 }
 
 header nav {
@@ -94,11 +96,12 @@ header nav ul {
 header nav ul li a {
     font-size: 18px;
     padding: 10px;
+    color: 000;
 }
 
 header nav ul li a.active {
     background-color: #fff;
-    color: #333;
+    color: #000;
 }
 
 /* Header images
@@ -139,6 +142,7 @@ main section {
 main section h2 {
     font-size: 24px;
     margin-bottom: 10px;
+    color: #333;
 }
 
 main section p {
@@ -176,15 +180,16 @@ form {
 .contact-info h4 {
     font-size: 18px;
     margin-bottom: 5px;
+    color: #333;
 }
 
 .contact-info i {
     margin-right: 10px;
 }
 
-map {
-    height: 450;
-    width: 600;
+#map {
+    height: 400;
+    width: auto;
     align-items: center;
     border: 0;
 }

@@ -36,9 +36,9 @@ Testing and Feedback: Conduct thorough testing and gather feedback from users, i
 ##Salon Image 
 I used images in the header to give visitors forehand knowledge of the eclusive service at I-Three dreadlocks salon.
  <img src="assets/img/larry.jpg" alt="A man with fresh cut medium twisted dreadlocks" style="width: 14%;">
- <img src="assets/img/coloredlocks.jpg" alt="A lady with long colored locks" style="width: 21%;">
- <img src="assets/img/cleanshave.jpg" alt="A clean shaven gentle locks" style="width: 25%;">
- <img src="assets/img/AfricanPride.jpg" alt="An African queen with Pride" style="width: 20%;">
+ <img src="assets/img/colored_locks.jpg" alt="A lady with long colored locks" style="width: 21%;">
+ <img src="assets/img/clean_shave.jpg" alt="A clean shaven gentle locks" style="width: 25%;">
+ <img src="assets/img/African_Pride.jpg" alt="An African queen with Pride" style="width: 20%;">
 
 ##Features
 The website consists of three pages and a modal. Home, Packages, Gallery and Booking modal.
@@ -68,13 +68,13 @@ Text showing users what to expect from I-Three Dreadlocks Salon on the gallery p
 A grid gallery showcasing I-Three's completed work. This will give confidence to the user in the companies ability.
 <img src="assets/img/smily_girl.jpg" alt="A touch of excellence!">
 <img src="assets/img/startinglocs.jpg" alt="A woman starting her dreadlocks">
-<img src="assets/img/AfricanPride.jpg" alt="An African queen with Pride">
+<img src="assets/img/African_Pride.jpg" alt="An African queen with Pride">
 <img src="assets/img/ladylocks.JPG" alt="A woman with thin grey locks" width="50%">
-<img src="assets/img/cleanshave.jpg" alt="A clean-shaven gentle locks" width="50%">
-<img src="assets/img/coloredlocks.jpg" alt="A lady with long colored locks">
+<img src="assets/img/clean_shave.jpg" alt="A clean-shaven gentle locks" width="50%">
+<img src="assets/img/colored_locks.jpg" alt="A lady with long colored locks">
 
 I included a video of retwisting dreadlocks taken from you-tube. 
-<iframe width="338" height="602" src="https://www.youtube.com/embed/hnn5DJqowX4" title="Retwist Tips for starter locs How to make sure your starter locs stay twisted during the process." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="338" height="602" src="https://www.youtube.com/embed/hnn5DJqowX4" title="Retwist Tips for starter locs"  allowfullscreen></iframe>
 
 ##Booking: Reach out to us via email or the booking form.
 I have included a booking form for customers to reach us for inquiry or concerns. 
