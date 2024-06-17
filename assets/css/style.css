@@ -103,11 +103,6 @@ header nav ul li a {
     color: green;
 }
 
-/* header nav ul li a.active {
-    background-color: black;
-    color: green;
-} */
-
 header img {
     width: 20%;
     height: 20%;
@@ -144,6 +139,10 @@ main section h2 {
 main section p {
     margin-bottom: 10px;
     /* color: blue; */
+}
+
+.green-text {
+    color: green;
 }
 
 /* Form styles */
