@@ -103,10 +103,10 @@ header nav ul li a {
     color: green;
 }
 
-header nav ul li a.active {
+/* header nav ul li a.active {
     background-color: black;
     color: green;
-}
+} */
 
 header img {
     width: 20%;
