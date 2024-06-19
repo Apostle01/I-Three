@@ -2,7 +2,7 @@
 
 I-Three Dreadlocks website is designed to be a responsive website. It allows visitors to make a booking. Dreadlocks and natural hair care.
 
-![I-Three Dreadlocks Saloon. Screenshot of website](assets/img/am-i-responsive.png)
+![I-Three Dreadlocks Saloon. Screenshot of website](/am-i-responsive.png)
 
 [View I-Three on Github pages](https://Apostle01.github.io/I-Three)
 
