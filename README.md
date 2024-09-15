@@ -1,3 +1,5 @@
+https://apostle01.github.io/I-Three/
+
 My Milestone 1 Project.
 This is a website for a Dreadlocks salon called I-Three.
 We specialize in dreadlocks and natural hair care. Visitors have the opportunity to book appointments online.
