@@ -92,8 +92,8 @@ All images on the webpage were taken from Unsplash.com. I have credited these in
 
 ### Wireframes
 
-- [Mobile](assets/img/Mobile.jpg)
-- [Desktop](assets/img/Desktop.jpg)
+- [Mobile](assets/photos/Mobile.jpg)
+- [Desktop](assets/photos/Desktop.jpg)
  
 ### Features
 
@@ -233,8 +233,9 @@ W3C validator was used to validate the HTML on all pages of the website. It was 
 
 One issue I was coming across when testing my html page was an error displayed by w3. Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.
 
-- [index.html](assets/img/html-Validator.png)
-- [style.css CSS](assets/img/CSS-Validator.png)
+- [index.html](assets/photos/NuHtmlChecker.jpg)
+- [style.css CSS](assets/photos/Jigsawvalidator.jpg)
+- [index.html](assets/photos/NuHtmlError.jpg)
 
 
 -[Jest](docs/JestFirst_test.png)
