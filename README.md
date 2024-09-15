@@ -237,11 +237,6 @@ One issue I was coming across when testing my html page was an error displayed b
 - [style.css CSS](assets/photos/Jigsawvalidator.jpg)
 - [index.html](assets/photos/NuHtmlError.jpg)
 
-
--[Jest](assets/docs/userstories/JestFirst_test.png)
--[Jest](assets/docs/userstories/Secondtest_jest.png)
--[Jest](assets/docs/userstories/Thirdtest_jest.png)
-
 ### Wave Testing
 - [Index Page HTML](assets/docs/userstories/Wavetest.png)
 - [Packages Page HTML](assets/docs/userstories/Wavetest1.png)
