@@ -76,7 +76,7 @@ Milestone01 is a dreadlock salon website with the aim of enhancing beauty throug
 
 ### Colour Scheme
 
-![I-Three Colour Palette](docs/Colour-Scheme.png)
+![I-Three Colour Palette](assets/img/Colour-Scheme.png)
 
 I opted for a clean modern colour palette where each colour complements one another. The palette was created using the [Coolors](https://coolors.co/) website.
 
