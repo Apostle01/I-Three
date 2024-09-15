@@ -92,8 +92,8 @@ All images on the webpage were taken from Unsplash.com. I have credited these in
 
 ### Wireframes
 
-- [Mobile](docs/wireframe.jpg)
-- [Desktop](docs/wireframe1.jpg)
+- [Mobile](assets/img/Mobile.jpg)
+- [Desktop](assets/img/Desktop.jpg)
  
 ### Features
 
