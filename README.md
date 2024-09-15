@@ -238,14 +238,14 @@ One issue I was coming across when testing my html page was an error displayed b
 - [index.html](assets/photos/NuHtmlError.jpg)
 
 
--[Jest](docs/JestFirst_test.png)
--[Jest](docs/JestSecondtest_jest.png)
--[Jest](docs/JestThirdtest_jest.png)
+-[Jest](assets/docs/userstories/JestFirst_test.png)
+-[Jest](assets/docs/userstories/Secondtest_jest.png)
+-[Jest](assets/docs/userstories/Thirdtest_jest.png)
 
 ### Wave Testing
-- [Index Page HTML](assets/img/Wavetest.png)
-- [Packages Page HTML](assets/img/Wavetest1.png)
-- [Gallery Page HTML](assets/img/Wavetest2.png)
+- [Index Page HTML](assets/docs/userstories/Wavetest.png)
+- [Packages Page HTML](assets/docs/userstories/Wavetest1.png)
+- [Gallery Page HTML](assets/docs/userstories/Wavetest2.png)
 
 ### Full Testing
 
